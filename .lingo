@@ -1,6 +1,7 @@
 lexicons:
 - codelingo/common as _
 - codelingo/git
+- codelingo/common
 tenets:
 - name: find-funcs
   doc: Example tenet that finds all functions.
